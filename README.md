@@ -120,7 +120,7 @@ http://127.0.0.1:8000
 Start Streamlit:
 
 ```bash
-streamlit run app.py
+streamlit run frontend.py
 ```
 
 Frontend URL:

@@ -253,8 +253,6 @@ Jayant Kumar
 
 GitHub: https://github.com/jayantkumar1604
 
-LinkedIn: Add your LinkedIn profile here
-
 ---
 
 ## ⭐ Support
